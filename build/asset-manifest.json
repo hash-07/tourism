@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tourism/static/css/main.34086e25.chunk.css",
+    "main.js": "/tourism/static/js/main.41bfc91c.chunk.js",
+    "main.js.map": "/tourism/static/js/main.41bfc91c.chunk.js.map",
+    "runtime-main.js": "/tourism/static/js/runtime-main.30d35d7b.js",
+    "runtime-main.js.map": "/tourism/static/js/runtime-main.30d35d7b.js.map",
+    "static/js/2.57e98830.chunk.js": "/tourism/static/js/2.57e98830.chunk.js",
+    "static/js/2.57e98830.chunk.js.map": "/tourism/static/js/2.57e98830.chunk.js.map",
+    "static/js/3.0fd596a3.chunk.js": "/tourism/static/js/3.0fd596a3.chunk.js",
+    "static/js/3.0fd596a3.chunk.js.map": "/tourism/static/js/3.0fd596a3.chunk.js.map",
+    "index.html": "/tourism/index.html",
+    "static/css/main.34086e25.chunk.css.map": "/tourism/static/css/main.34086e25.chunk.css.map",
+    "static/js/2.57e98830.chunk.js.LICENSE.txt": "/tourism/static/js/2.57e98830.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tourism/static/media/img-8.fabdf94d.jpg",
+    "static/media/HeroSection.css": "/tourism/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30d35d7b.js",
+    "static/js/2.57e98830.chunk.js",
+    "static/css/main.34086e25.chunk.css",
+    "static/js/main.41bfc91c.chunk.js"
+  ]
+}
