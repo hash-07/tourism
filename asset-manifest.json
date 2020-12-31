@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/tourism/static/css/main.34086e25.chunk.css",
-    "main.js": "/tourism/static/js/main.d7ca1a2e.chunk.js",
-    "main.js.map": "/tourism/static/js/main.d7ca1a2e.chunk.js.map",
-    "runtime-main.js": "/tourism/static/js/runtime-main.30d35d7b.js",
-    "runtime-main.js.map": "/tourism/static/js/runtime-main.30d35d7b.js.map",
-    "static/js/2.8fe0ee4b.chunk.js": "/tourism/static/js/2.8fe0ee4b.chunk.js",
-    "static/js/2.8fe0ee4b.chunk.js.map": "/tourism/static/js/2.8fe0ee4b.chunk.js.map",
-    "static/js/3.0fd596a3.chunk.js": "/tourism/static/js/3.0fd596a3.chunk.js",
-    "static/js/3.0fd596a3.chunk.js.map": "/tourism/static/js/3.0fd596a3.chunk.js.map",
+    "main.css": "/tourism/static/css/main.eab1ec4e.chunk.css",
+    "main.js": "/tourism/static/js/main.67481f82.chunk.js",
+    "main.js.map": "/tourism/static/js/main.67481f82.chunk.js.map",
+    "runtime-main.js": "/tourism/static/js/runtime-main.52d31525.js",
+    "runtime-main.js.map": "/tourism/static/js/runtime-main.52d31525.js.map",
+    "static/js/2.863358fc.chunk.js": "/tourism/static/js/2.863358fc.chunk.js",
+    "static/js/2.863358fc.chunk.js.map": "/tourism/static/js/2.863358fc.chunk.js.map",
+    "static/js/3.6a3bdb04.chunk.js": "/tourism/static/js/3.6a3bdb04.chunk.js",
+    "static/js/3.6a3bdb04.chunk.js.map": "/tourism/static/js/3.6a3bdb04.chunk.js.map",
     "index.html": "/tourism/index.html",
-    "static/css/main.34086e25.chunk.css.map": "/tourism/static/css/main.34086e25.chunk.css.map",
-    "static/js/2.8fe0ee4b.chunk.js.LICENSE.txt": "/tourism/static/js/2.8fe0ee4b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/tourism/static/media/img-8.fabdf94d.jpg",
-    "static/media/HeroSection.css": "/tourism/static/media/img-home.c034239e.jpg"
+    "static/css/main.eab1ec4e.chunk.css.map": "/tourism/static/css/main.eab1ec4e.chunk.css.map",
+    "static/js/2.863358fc.chunk.js.LICENSE.txt": "/tourism/static/js/2.863358fc.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/tourism/static/media/img-home.c034239e.jpg",
+    "static/media/App.css": "/tourism/static/media/img8.fabdf94d.jpg",
+    "static/media/img4.a31875b7.jpg": "/tourism/static/media/img4.a31875b7.jpg",
+    "static/media/img9.f97f588f.jpg": "/tourism/static/media/img9.f97f588f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.30d35d7b.js",
-    "static/js/2.8fe0ee4b.chunk.js",
-    "static/css/main.34086e25.chunk.css",
-    "static/js/main.d7ca1a2e.chunk.js"
+    "static/js/runtime-main.52d31525.js",
+    "static/js/2.863358fc.chunk.js",
+    "static/css/main.eab1ec4e.chunk.css",
+    "static/js/main.67481f82.chunk.js"
   ]
 }
